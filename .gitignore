@@ -1,0 +1,6 @@
+*.zip
+/.ipynb_checkpoints
+glove.6B.300d.txt
+glove.6B.50d.txt
+/Images
+Untitled.ipynb
