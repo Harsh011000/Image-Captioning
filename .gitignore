@@ -5,3 +5,5 @@ glove.6B.50d.txt
 /Images
 Untitled.ipynb
 /Bert_ConvNeXtTiny
+/Data/.ipynb_checkpoints
+embedding_matrix.npy
