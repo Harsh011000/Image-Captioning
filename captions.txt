@@ -41,7 +41,7 @@ image,caption
 1012212859_01547e3f17.jpg,White dog with brown ears standing near water with head turned to one side .
 1015118661_980735411b.jpg,A boy smiles in front of a stony wall in a city .
 1015118661_980735411b.jpg,A little boy is standing on the street while a man in overalls is working on a stone wall .
-1015118661_980735411b.jpg,A young boy runs aross the street .
+1015118661_980735411b.jpg,A young boy runs across the street .
 1015118661_980735411b.jpg,A young child is walking on a stone paved street with a metal pole and a man behind him .
 1015118661_980735411b.jpg,Smiling boy in white shirt and blue jeans in front of rock wall with man in overalls behind him .
 1015584366_dfcec3c85a.jpg,A black dog leaps over a log .
@@ -315,7 +315,7 @@ image,caption
 10815824_2997e03d76.jpg,"A man , and girl and two horses are near a contained fire ."
 10815824_2997e03d76.jpg,Two people and two horses watching a fire .
 1082252566_8c79beef93.jpg,"A bulldog , a sheep dog , and a boxer standing in a yard ."
-1082252566_8c79beef93.jpg,A large brown dog is pushing a small Boston terrier with his face while anouther dog watches .
+1082252566_8c79beef93.jpg,A large brown dog is pushing a small Boston terrier with his face while another dog watches .
 1082252566_8c79beef93.jpg,A large skinny dog stands near two smaller dogs int the dirt .
 1082252566_8c79beef93.jpg,There are three dogs starring at a ball in the middle of them .
 1082252566_8c79beef93.jpg,Three dogs of various sizes .
@@ -4224,7 +4224,7 @@ image,caption
 2038662925_f4fa8c2534.jpg,A man wearing a bicycle helmet looks at a woman wearing a bicycle helmet .
 2038662925_f4fa8c2534.jpg,Interracial couple looks at each other wearing biking helmets
 2038662925_f4fa8c2534.jpg,Two people with bicycle helmets chatting on a bench .
-2039457436_fc30f5e1ce.jpg,a attrative woman climbs over a fence .
+2039457436_fc30f5e1ce.jpg,a attractive woman climbs over a fence .
 2039457436_fc30f5e1ce.jpg,A woman climbing a barbed wire fence .
 2039457436_fc30f5e1ce.jpg,A woman in a cowboy outfit climbs over a wire fence with onlookers from a porch behind her .
 2039457436_fc30f5e1ce.jpg,Skimply clad cowgirl climbs over barbwire fence
@@ -4436,7 +4436,7 @@ image,caption
 206087108_d4557d38ee.jpg,There is a man laying on the ground with a red and white hat on his head .
 2061144717_5b3a1864f0.jpg,A man and child stand at the bottom of an outdoor staircase near benches .
 2061144717_5b3a1864f0.jpg,"A man and young boy are standing , looking at each other , in an outdoor garden area ."
-2061144717_5b3a1864f0.jpg,A man in an ampitheater talking to a boy .
+2061144717_5b3a1864f0.jpg,A man in an amphitheater talking to a boy .
 2061144717_5b3a1864f0.jpg,A man talks to a boy in a vacant area .
 2061144717_5b3a1864f0.jpg,The man and the boy are standing at the bottom of the outdoor stairs .
 2061354254_faa5bd294b.jpg,A boy hangs from a t-bar while a man gives him a push .
@@ -5142,7 +5142,7 @@ image,caption
 2109911919_af45b93ef3.jpg,A person climbing up a snowy mountain .
 2109911919_af45b93ef3.jpg,A person climbing up the side of a snowy mountain to fetch his or her ski poles .
 2109911919_af45b93ef3.jpg,A skier climbs up a snowy trail toward his poles .
-2109911919_af45b93ef3.jpg,A climber with a backpack accends a snow covered mountain .
+2109911919_af45b93ef3.jpg,A climber with a backpack ascends a snow covered mountain .
 2109911919_af45b93ef3.jpg,Man climbing a steep snow-covered slope .
 2110692070_8aaaa1ae39.jpg,A dog is running through a green yard .
 2110692070_8aaaa1ae39.jpg,A dog running though a green yard .
@@ -10198,7 +10198,7 @@ image,caption
 2479553749_f7ac031940.jpg,A little boy is watching a merry-go-round .
 2479553749_f7ac031940.jpg,A little boy watches a Ferris Wheel in motion .
 2479553749_f7ac031940.jpg,A tow-headed boy looks on at the children 's merry-go-round .
-2479553749_f7ac031940.jpg,Small child looking at a colorful children 's amuseument ride .
+2479553749_f7ac031940.jpg,Small child looking at a colorful children 's amusement ride .
 2479652566_8f9fac8af5.jpg,A little girl is sitting on the counter dangling one foot in the sink whilst holding a dish jet washer .
 2479652566_8f9fac8af5.jpg,A little girl plays with a faucet .
 2479652566_8f9fac8af5.jpg,A little girl wearing sunglasses puts her feet into the kitchen sink .
@@ -14780,7 +14780,7 @@ image,caption
 2795287622_da187a3e86.jpg,A little girl is jumping off the diving board into a pool .
 2795287622_da187a3e86.jpg,A young girl in a pink and yellow bathing suit jumps from a diving board into a pool .
 2795352290_9209b214f3.jpg,A little girl screams while wearing bows in her hair .
-2795352290_9209b214f3.jpg,A small girl with colorful barettes in her hair yawns .
+2795352290_9209b214f3.jpg,A small girl with colorful barrettes in her hair yawns .
 2795352290_9209b214f3.jpg,A toddler with colorful hairclips yawns at the window .
 2795352290_9209b214f3.jpg,A young girl with hair ribbons yawning .
 2795352290_9209b214f3.jpg,Girl screaming with bows in her hair .
@@ -15108,7 +15108,7 @@ image,caption
 2824004868_1fc0a81173.jpg,A girl poses on a shady driveway .
 2824004868_1fc0a81173.jpg,A girl stands in a driveway .
 2824004868_1fc0a81173.jpg,A young girl stands barefoot on a driveway and uses a hula-hoop .
-2824004868_1fc0a81173.jpg,Child playing with a hula hoop on a cement driveway in housing alotment .
+2824004868_1fc0a81173.jpg,Child playing with a hula hoop on a cement driveway in housing allotment .
 2824401212_8da8ab99d6.jpg,A crowd of people socializing at night .
 2824401212_8da8ab99d6.jpg,A girl in an orange jacket talks on the phone while another girl smokes .
 2824401212_8da8ab99d6.jpg,A woman in an orange jacket is talking on her cellphone .
@@ -18721,7 +18721,7 @@ image,caption
 3027850131_a7772e0ba0.jpg,Surfers are riding their boards on large waves .
 3028095878_07341efc9c.jpg,A man sits on the grass and drinks from a water bottle .
 3028095878_07341efc9c.jpg,A man sitting on a soccer field drinking a bottle of water .
-3028095878_07341efc9c.jpg,An athelete takes a break and sits in the grass drinking water .
+3028095878_07341efc9c.jpg,An athlete takes a break and sits in the grass drinking water .
 3028095878_07341efc9c.jpg,A soccer player is sitting on the field drinking from a water bottle .
 3028095878_07341efc9c.jpg,A soccer player sits on the field drinking water .
 3028404926_2bd27e3e83.jpg,A boy turns a handcrank in a courtyard .
@@ -21355,7 +21355,7 @@ image,caption
 3157847991_463e006a28.jpg,Two men smoking behind a railing .
 3157847991_463e006a28.jpg,Two men smoking while standing by a rail in front of a building
 3158327361_6f1a518228.jpg,a couple of people running on the shore near the beach .
-3158327361_6f1a518228.jpg,A man and a woman hopping acrouss hot sand .
+3158327361_6f1a518228.jpg,A man and a woman hopping across hot sand .
 3158327361_6f1a518228.jpg,People running away from seagulls on the beach .
 3158327361_6f1a518228.jpg,Two people run in the sand at the beach .
 3158327361_6f1a518228.jpg,Two people run along a beach with seagulls
@@ -23583,7 +23583,7 @@ image,caption
 3250695024_93e8ab7305.jpg,"A man , a woman , a girl , and a younger girl look puzzled and concerned ."
 3250695024_93e8ab7305.jpg,"A man , woman and one girl face the camera , while one girl faces away ."
 3250695024_93e8ab7305.jpg,"Oriental man , and two women facing camera and young child with back to camera ."
-3250695024_93e8ab7305.jpg,"Three people looking concerned facing us , a girl in a backback facing away ."
+3250695024_93e8ab7305.jpg,"Three people looking concerned facing us , a girl in a backpack facing away ."
 3251088971_f4471048e3.jpg,A lady is sitting at a table alone in a very colorful place .
 3251088971_f4471048e3.jpg,An older woman sits at a table in a tank top and skirt .
 3251088971_f4471048e3.jpg,"An older woman sitting at a table in a restaraunt , holding a glass ."
@@ -23636,11 +23636,11 @@ image,caption
 3252985078_c4ee2aca4e.jpg,There is a large crowd of runners .
 3253060519_55d98c208f.jpg,A building with people outside .
 3253060519_55d98c208f.jpg,A group of people stand in front of a large apartment building .
-3253060519_55d98c208f.jpg,an anciet city with people walking the streets .
+3253060519_55d98c208f.jpg,an ancient city with people walking the streets .
 3253060519_55d98c208f.jpg,People in front of a beige five story building .
 3253060519_55d98c208f.jpg,"The corner of a building , from the street ."
 3254640083_eb34b8edfe.jpg,A climber is climbing on an artificial climbing wall
-3254640083_eb34b8edfe.jpg,A man attemping to climb a fake rock wall .
+3254640083_eb34b8edfe.jpg,A man attempting to climb a fake rock wall .
 3254640083_eb34b8edfe.jpg,A man climbs a rock wall .
 3254640083_eb34b8edfe.jpg,A man climbs up an artificial climbing wall .
 3254640083_eb34b8edfe.jpg,a rock climber climbs a rock wall .
@@ -24338,7 +24338,7 @@ image,caption
 3278777548_290b881018.jpg,Four people walk on a bridge over a body of water .
 3278777548_290b881018.jpg,People walking on a bridge over water .
 3278777548_290b881018.jpg,Several people are walking along a narrow bridge over some water .
-3278777548_290b881018.jpg,several people walking in a line acroos a distant bridge
+3278777548_290b881018.jpg,several people walking in a line across a distant bridge
 3278811919_d5a3432af6.jpg,A hiker walks through the snowfield .
 3278811919_d5a3432af6.jpg,The two people carrying skis are walking in the snow .
 3278811919_d5a3432af6.jpg,Two people hike up a snowy hill .
@@ -25149,7 +25149,7 @@ image,caption
 3319388517_5609ae9805.jpg,Three women tourists take pictures of an object .
 3319388517_5609ae9805.jpg,Two ladies are taking pictures and one is watching .
 3319388517_5609ae9805.jpg,Two older females taking pictures with their camera while another older female watches .
-3319405494_58dee86b21.jpg,a group of skiers jumping down slopes with the sun directly cast in backgroud
+3319405494_58dee86b21.jpg,a group of skiers jumping down slopes with the sun directly cast in background
 3319405494_58dee86b21.jpg,Two people are going over a skii jump while one looks into the camera .
 3319405494_58dee86b21.jpg,two skiers are jumping over a mound of snow underneath bright sunshine .
 3319405494_58dee86b21.jpg,Two skiers attempt tricks while a third poses behind their jump .
@@ -26070,7 +26070,7 @@ image,caption
 3351370405_e417e38f52.jpg,A snowboarder clears the air over a snow-covered cliff .
 3351370405_e417e38f52.jpg,This person is snowboarding off a hill .
 3351418768_596ef7fd6f.jpg,a family standing in a rock cave with some of their belongings in the background
-3351418768_596ef7fd6f.jpg,An Afican American woman standing behind two small African American children .
+3351418768_596ef7fd6f.jpg,An African American woman standing behind two small African American children .
 3351418768_596ef7fd6f.jpg,An African woman stands with her two children under a boulder .
 3351418768_596ef7fd6f.jpg,A woman and two children pose for a picture under some rocks .
 3351418768_596ef7fd6f.jpg,A woman in purple with two children in the mouth of a cave .
@@ -29897,7 +29897,7 @@ image,caption
 3504158556_1d410c8ff7.jpg,Some young boys hang out around their car .
 3504158556_1d410c8ff7.jpg,Three men standing in front of a parked white care
 3504158556_1d410c8ff7.jpg,Three teenage boys standing in front of a white car
-3504158556_1d410c8ff7.jpg,Three young black men lean againest a white jeep .
+3504158556_1d410c8ff7.jpg,Three young black men lean against a white jeep .
 3504158556_1d410c8ff7.jpg,Three young men lean on the front of a Toyota truck .
 3504275465_604ce2ef34.jpg,A Jack Russell Terrier jumps into a stream .
 3504275465_604ce2ef34.jpg,A white dog is running into a river .
@@ -30908,7 +30908,7 @@ image,caption
 3542771548_fcb8fa0cba.jpg,a horse and rider jump over a fence .
 3542771548_fcb8fa0cba.jpg,A horse jumps over a wooden fence .
 3542771548_fcb8fa0cba.jpg,A jockey on a horse jumps a fence .
-3542771548_fcb8fa0cba.jpg,A person aquestrian horse jumping over a wooden fence .
+3542771548_fcb8fa0cba.jpg,A person equestrian horse jumping over a wooden fence .
 3543294190_0037c59607.jpg,A man demonstrates how to ride a bicycle with only the back wheel on the ground .
 3543294190_0037c59607.jpg,A man in a red outfit balances on a bike .
 3543294190_0037c59607.jpg,A man performing a trick on a bicycle by standing on the pedals while the bike is upright .
@@ -31757,7 +31757,7 @@ image,caption
 3577235421_69e4efb8d1.jpg,A professional wrestler falls outside the ring .
 3577235421_69e4efb8d1.jpg,a wrestler jumps over the ropes .
 3577235421_69e4efb8d1.jpg,Two wrestlers and a referee .
-3577235421_69e4efb8d1.jpg,two wrestlers fighting in a rink with a referee in the backgroud
+3577235421_69e4efb8d1.jpg,two wrestlers fighting in a rink with a referee in the background
 3577235421_69e4efb8d1.jpg,Wrestler spinning outside of the rink toward fellow wrestler .
 357725852_6f55cb9abc.jpg,"The two people are on the end of the dock with a boat behind them , and they are surrounded by water ."
 357725852_6f55cb9abc.jpg,Two people are looking out into the water at the end of a wooden jetty .
@@ -34714,7 +34714,7 @@ image,caption
 3703107969_175da4b276.jpg,a man doing tricks on a bmx bike
 3703107969_175da4b276.jpg,An extreme bicyclist is performing a jump with his bicycle and rotating the bicycle while he is in the air .
 3703107969_175da4b276.jpg,Person doing a trick bike move in a skatepark .
-3703413486_3c682732a0.jpg,A boy sticks an aligator puppet out of a camper van window .
+3703413486_3c682732a0.jpg,A boy sticks an alligator puppet out of a camper van window .
 3703413486_3c682732a0.jpg,Two boys looking out the window of an RV .
 3703413486_3c682732a0.jpg,Two boys peer out the window of a RV while one holds a stuffed toy .
 3703413486_3c682732a0.jpg,Two children peek out the window of an RV with a pet snake .
@@ -35309,7 +35309,7 @@ image,caption
 3739833689_a0038545bd.jpg,A young boy is spinning around a baseball bat on the grass .
 3739833689_a0038545bd.jpg,Little boy puts his forehead on the baseball bat and spins around to make himself dizzy .
 3739833689_a0038545bd.jpg,The little boy is wearing red shorts and a white t-shirt and has his head resting on a baseball bat .
-374103776_0de490c1b0.jpg,A woman points at somthing while antoher woman touches her hand at a bar .
+374103776_0de490c1b0.jpg,A woman points at somthing while another woman touches her hand at a bar .
 374103776_0de490c1b0.jpg,"Men and women are standing closely together , some with drinks in their hands ."
 374103776_0de490c1b0.jpg,The girls are having a drink .
 374103776_0de490c1b0.jpg,two girls drink at a party .
@@ -36384,7 +36384,7 @@ image,caption
 435054077_3506dbfcf4.jpg,A young woman sits crosslegged beside her purse on the grass among a crowd of dogs .
 435054077_3506dbfcf4.jpg,There are several dogs in the field where the girl with the ponytail is sitting down .
 435054077_3506dbfcf4.jpg,Woman sitting in the grass with many dogs around her .
-435739506_2daf7f4887.jpg,"A dog approachs a small creature in a barren , snowy field ."
+435739506_2daf7f4887.jpg,"A dog approaches a small creature in a barren , snowy field ."
 435739506_2daf7f4887.jpg,Black dog in a snowy field .
 435739506_2daf7f4887.jpg,Black dog running through a grassy area .
 435739506_2daf7f4887.jpg,Two dogs are running towards some long grass in the scrubland .
@@ -38543,7 +38543,7 @@ image,caption
 541063517_35044c554a.jpg,A man in a blue shirt sitting on the side of a mountain wearing a backpack .
 541063517_35044c554a.jpg,"A man in grey on a rocky cliff , overlooking the mountains ."
 541063517_35044c554a.jpg,A man sits on a cliff and looks out over another mountain .
-541063517_35044c554a.jpg,one man wearing a grey shirt and a backpack with snowy mountains in the backgroud
+541063517_35044c554a.jpg,one man wearing a grey shirt and a backpack with snowy mountains in the background
 542179694_e170e9e465.jpg,"A firetruck stops and makes a call at a bridge , where a man and his dogs are running ."
 542179694_e170e9e465.jpg,A firetruck with ladder extended on the side of the road .
 542179694_e170e9e465.jpg,A jogger with a dog approaches a ladder truck .
@@ -38959,7 +38959,7 @@ image,caption
 613030608_4355e007c7.jpg,A little boy dressed as a pirate holding up a skull and crossbones 's flag
 613030608_4355e007c7.jpg,A little boy dressed as a pirate is holding up the skull pirate flag .
 613030608_4355e007c7.jpg,A young boy dressed like a pirate is holding a sign with a skull and crossbones on it .
-613900608_2e49415772.jpg,"A dancer in a dancing pose on the street , audience in the backgound ."
+613900608_2e49415772.jpg,"A dancer in a dancing pose on the street , audience in the background ."
 613900608_2e49415772.jpg,A female performer is barefoot and performing in front of a crowd .
 613900608_2e49415772.jpg,A woman in a tank top and capri pants costume taking a bow in the street .
 613900608_2e49415772.jpg,A woman with beads around her neck is performing a dance as part of a parade .
@@ -39603,7 +39603,7 @@ image,caption
 781387473_208ba152b3.jpg,A girl sits on a ride with a stuffed animal next to her above a carnival .
 781387473_208ba152b3.jpg,A little girl and her stuffed monkey seated on a ride above the fairgrounds .
 781387473_208ba152b3.jpg,A little girl sits on a Farris wheel seat next to a giant stuffed animal .
-781387473_208ba152b3.jpg,Girl and large stuffed animal riding an amuseument ride over a fair .
+781387473_208ba152b3.jpg,Girl and large stuffed animal riding an amusement ride over a fair .
 782017931_75d92bb7a4.jpg,A couple is standing against a railing looking at a beautiful lake and sunset .
 782017931_75d92bb7a4.jpg,A couple takes in the view at the water at dusk .
 782017931_75d92bb7a4.jpg,The couple is standing by the railing overlooking the water .
@@ -40031,7 +40031,7 @@ image,caption
 895502702_5170ada2ee.jpg,A dog runs through a field chasing a ball .
 897406883_f09f673d94.jpg,A child pulls another in a small wagon .
 897406883_f09f673d94.jpg,A toddler in a red jacket and jeans pulling another toddler wearing a green hat and jacket and red paints in a red wagon .
-897406883_f09f673d94.jpg,A toddler in dirty jeans attampts to pull a younger child in a wagon .
+897406883_f09f673d94.jpg,A toddler in dirty jeans attempts to pull a younger child in a wagon .
 897406883_f09f673d94.jpg,A young boy pulls another boy wearing a silly hat in a radio flyer wagon .
 897406883_f09f673d94.jpg,"One child pulls another , sitting in a red wagon , along the sand ."
 897621891_efb1e00d1d.jpg,A boy is swimming underwater holding a toy in his hand .
